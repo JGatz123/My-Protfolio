@@ -18,22 +18,22 @@ function Portfolio() {
       repo: "https://github.com/JGatz123/Text-Editor"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Book-Searcher',
+      description: 'MERN/GrapgQL',
+      link: "https://gasiorowski-book-searcher-9fe69fedaf2f.herokuapp.com/",
+      repo: "https://github.com/JGatz123/Book_Search_Engine"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Weather',
+      description: 'API/Javascript',
+      link: "https://jgatz123.github.io/GasiorowskiWeatherApp/",
+      repo: "https://github.com/JGatz123/GasiorowskiWeatherApp"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'New-Search',
+      description: 'JavaScript/CSS/API',
+      link: "https://rhonvyramos.github.io/libel_news_reports/",
+      repo: "https://github.com/JimmyJr77/libel"
     },
   ]);
 
