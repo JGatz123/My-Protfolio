@@ -7,16 +7,16 @@ This program requires no packages to view, as long as the user has the link they
 ## Usage:
 
 ### Upon opening the portfolio the viewer will see the biography section:
-![](./src/assets/rmeimg/port1.png)
+![](./src/assets/rmeimgs/port1.png)
 
 ### Upon clicking the "Portfolio" section the viewer will see 5 projects I have developed with the ability to click the project and be taken to the deployed application to test its functionality
-!![](./src/assets/rmeimg/port2.png)
+![](./src/assets/rmeimgs/port2.png)
 
 ### Upon clicking the "Contact Me" section the user will be able to fill out a form with their information and a message which I will be able to view and respond back to
-![](./src/assets/rmeimg/port3.png)
+![](./src/assets/rmeimgs/port3.png)
 
 ### In the "Resume" section the viewer will be able to click the resume button in "Download my Resume" and can download a copy of my resume. Addtionally, by scrolling down the page they will see a complete list of my front and back end skills.
-![](./src/assets/rmeimg/port4.png)
+![](./src/assets/rmeimgs/port4.png)
 
 
 ### A working link for this application is: 
