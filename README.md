@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Gasiorowski Offcial Portfolio
+This is a professional software development portfolio, the code was written by myself with the assistance of the GWU coding bootcamp tutoring service. In this portfolio and you can find a short biography on myself, a list of 5 projects I have created, hovering over the projects will allow you to see the technologies used. A contact form to reach me regarding questions you may have, and a link to download my resume as well as a showcase of my skills.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation:
+This program requires no packages to view, as long as the user has the link they can view my portfolio
 
-## Available Scripts
+## Usage:
 
-In the project directory, you can run:
+### Upon opening the portfolio the viewer will see the biography section:
+![](./src/assets/rmeimg/port1.png)
 
-### `npm start`
+### Upon clicking the "Portfolio" section the viewer will see 5 projects I have developed with the ability to click the project and be taken to the deployed application to test its functionality
+!![](./src/assets/rmeimg/port2.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Upon clicking the "Contact Me" section the user will be able to fill out a form with their information and a message which I will be able to view and respond back to
+![](./src/assets/rmeimg/port3.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### In the "Resume" section the viewer will be able to click the resume button in "Download my Resume" and can download a copy of my resume. Addtionally, by scrolling down the page they will see a complete list of my front and back end skills.
+![](./src/assets/rmeimg/port4.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### A working link for this application is: 
+https://gasiorowskiportfolio-94326a082c59.herokuapp.com/
